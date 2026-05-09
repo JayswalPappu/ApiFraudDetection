@@ -1,0 +1,6 @@
+105,Kalanki,North,4,48000,Available
+104,Birgunj,East,6,55000,Available
+109,Dharan,South,7,41000,Available
+198,Pokhara,West,8,80000,Available
+155,Dharan,North,6,70000,Available
+106,Butwal,South,7,90000,Available
